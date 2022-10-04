@@ -3,4 +3,4 @@ _By Kamil Sabbagh, Fadi Younes, Rafik Hachana (PMLDL project course, Innopolis U
 
 Apartment condition classification from images in order to detect overpriced apartment on online rental websites.
 
-Check the project proposal for more details.
+Check the [project proposal](./ProjectProposal.pdf) for more details.
