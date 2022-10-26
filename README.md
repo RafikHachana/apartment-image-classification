@@ -1,3 +1,9 @@
+
+# Apartment Condition Classification
+_By Kamil Sabbagh, Fadi Younes, Rafik Hachana (PMLDL project course, Innopolis University, Fall 2022)_
+
+Apartment condition classification from images in order to detect overpriced apartment on online rental websites.
+
 ## Image Extractor and Compressor
 
 This project features an Image Extractor that deals with apartment images, extracts them from MongoDB, and compresses them in order to store them in a new directory based on the apartment's condition.  
